@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'My Matic'
+project = 'Already Purchased'
 copyright = '2025'
 author = 'Simon Cheshire'
 
