@@ -6,7 +6,7 @@ If you've recently upgraded your device or performed a system reset, you're prob
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://deskpcmatic.hostlink.click/" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
+       <a href="https://deskpcmatic.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
    </div>
 
 In this guide, you’ll learn how to Install PC Matic Already Purchased, how to access your existing account, where to download the installer, and how to activate it quickly. You can install it on multiple devices if your subscription allows it. Ready to get started? Let’s walk through everything you need to know.
